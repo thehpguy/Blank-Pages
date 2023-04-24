@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lov HP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HP LEFT note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HP DOWN note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HP RIGHT note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HP UP note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				26
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "hp miss up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "hp miss left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "hp miss right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "hp miss down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				279,
+				13
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "dead",
+			"indices": [],
+			"name": "dead"
+		},
+		{
+			"offsets": [
+				280,
+				14
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Death"
+		},
+		{
+			"offsets": [
+				280,
+				14
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "loop"
+		},
+		{
+			"offsets": [
+				280,
+				14
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hp",
+	"position": [
+		-10,
+		-5
+	],
+	"healthicon": "hp",
+	"flip_x": true,
+	"healthbar_colors": [
+		185,
+		157,
+		215
+	],
+	"camera_position": [
+		90,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

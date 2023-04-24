@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unoart.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bothdance0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="bothdance0001" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="bothdance0002" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="bothdance0003" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="bothdance0004" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="artleave0000" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="artleave0001" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="artleave0002" x="5760" y="1080" width="1920" height="1080"/>
+	<SubTexture name="artleave0003" x="0" y="2160" width="1920" height="1080"/>
+	<SubTexture name="artleave0004" x="1920" y="2160" width="1920" height="1080"/>
+	<SubTexture name="artleave0005" x="3840" y="2160" width="1920" height="1080"/>
+	<SubTexture name="artleave0006" x="5760" y="2160" width="1920" height="1080"/>
+	<SubTexture name="artleave0007" x="0" y="3240" width="1920" height="1080"/>
+	<SubTexture name="artleave0008" x="1920" y="3240" width="1920" height="1080"/>
+	<SubTexture name="unodance0000" x="3840" y="3240" width="1920" height="1080"/>
+	<SubTexture name="unodance0001" x="5760" y="3240" width="1920" height="1080"/>
+	<SubTexture name="unodance0002" x="0" y="4320" width="1920" height="1080"/>
+	<SubTexture name="unodance0003" x="1920" y="4320" width="1920" height="1080"/>
+	<SubTexture name="unodance0004" x="3840" y="4320" width="1920" height="1080"/>
+	<SubTexture name="unoshock0000" x="5760" y="4320" width="1920" height="1080"/>
+	<SubTexture name="unoshock0001" x="0" y="5400" width="1920" height="1080"/>
+	<SubTexture name="unoshock0002" x="1920" y="5400" width="1920" height="1080"/>
+	<SubTexture name="unoshock0003" x="3840" y="5400" width="1920" height="1080"/>
+	<SubTexture name="unoshock0004" x="5760" y="5400" width="1920" height="1080"/>
+	<SubTexture name="unoshock0005" x="0" y="6480" width="1920" height="1080"/>
+	<SubTexture name="unoshock0006" x="1920" y="6480" width="1920" height="1080"/>
+	<SubTexture name="unoshock0007" x="3840" y="6480" width="1920" height="1080"/>
+	<SubTexture name="unoshock0008" x="5760" y="6480" width="1920" height="1080"/>
+	<SubTexture name="unoshock0009" x="0" y="7560" width="1920" height="1080"/>
+	<SubTexture name="unoshock0010" x="1920" y="7560" width="1920" height="1080"/>
+	<SubTexture name="unoshock0011" x="3840" y="7560" width="1920" height="1080"/>
+</TextureAtlas>

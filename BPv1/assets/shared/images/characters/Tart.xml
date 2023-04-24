@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tart.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tart DOWN Note0000" x="0" y="0" width="345" height="683" frameX="0" frameY="-11" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0001" x="0" y="0" width="345" height="683" frameX="0" frameY="-11" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0002" x="345" y="0" width="339" height="686" frameX="-2" frameY="-8" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0003" x="345" y="0" width="339" height="686" frameX="-2" frameY="-8" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0004" x="684" y="0" width="334" height="688" frameX="-4" frameY="-6" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0005" x="1018" y="0" width="328" height="691" frameX="-4" frameY="-3" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0006" x="1346" y="0" width="323" height="692" frameX="-5" frameY="-2" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0007" x="1669" y="0" width="320" height="693" frameX="-5" frameY="-1" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0008" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0009" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0010" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0011" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0012" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0013" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0014" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0015" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0016" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0017" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0018" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0019" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart DOWN Note0020" x="1989" y="0" width="320" height="694" frameX="-5" frameY="0" frameWidth="345" frameHeight="694"/>
+	<SubTexture name="Tart LEFT Note0000" x="2309" y="0" width="343" height="689" frameX="0" frameY="0" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0001" x="2309" y="0" width="343" height="689" frameX="0" frameY="0" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0002" x="2652" y="0" width="334" height="688" frameX="-7" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0003" x="2652" y="0" width="334" height="688" frameX="-7" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0004" x="2986" y="0" width="328" height="687" frameX="-13" frameY="-2" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0005" x="3314" y="0" width="324" height="688" frameX="-21" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0006" x="3638" y="0" width="320" height="688" frameX="-27" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0007" x="0" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0008" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0009" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0010" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0011" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0012" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0013" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0014" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0015" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0016" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0017" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0018" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0019" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0020" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart LEFT Note0021" x="320" y="694" width="320" height="688" frameX="-29" frameY="-1" frameWidth="349" frameHeight="689"/>
+	<SubTexture name="Tart RIGHT Note0000" x="640" y="694" width="345" height="696" frameX="0" frameY="-9" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0001" x="640" y="694" width="345" height="696" frameX="0" frameY="-9" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0002" x="985" y="694" width="338" height="698" frameX="0" frameY="-7" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0003" x="985" y="694" width="338" height="698" frameX="0" frameY="-7" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0004" x="1323" y="694" width="337" height="702" frameX="-1" frameY="-3" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0005" x="1660" y="694" width="334" height="703" frameX="0" frameY="-2" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0006" x="1994" y="694" width="331" height="703" frameX="0" frameY="-2" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0007" x="2325" y="694" width="327" height="704" frameX="0" frameY="-1" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0008" x="2652" y="694" width="324" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0009" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0010" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0011" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0012" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0013" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0014" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0015" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0016" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0017" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0018" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0019" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart RIGHT Note0020" x="2976" y="694" width="320" height="705" frameX="0" frameY="0" frameWidth="345" frameHeight="705"/>
+	<SubTexture name="Tart UP Note0000" x="3296" y="694" width="344" height="719"/>
+	<SubTexture name="Tart UP Note0001" x="3296" y="694" width="344" height="719"/>
+	<SubTexture name="Tart UP Note0002" x="3640" y="694" width="337" height="713" frameX="-4" frameY="-6" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0003" x="3640" y="694" width="337" height="713" frameX="-4" frameY="-6" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0004" x="0" y="1413" width="331" height="707" frameX="-6" frameY="-12" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0005" x="331" y="1413" width="327" height="703" frameX="-6" frameY="-16" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0006" x="658" y="1413" width="324" height="699" frameX="-6" frameY="-20" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0007" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0008" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0009" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0010" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0011" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0012" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0013" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0014" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0015" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0016" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0017" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0018" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0019" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="Tart UP Note0020" x="982" y="1413" width="320" height="695" frameX="-6" frameY="-24" frameWidth="344" frameHeight="719"/>
+	<SubTexture name="dance Tart0000" x="1302" y="1413" width="334" height="657" frameX="-13" frameY="-10" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0001" x="1302" y="1413" width="334" height="657" frameX="-13" frameY="-10" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0002" x="1636" y="1413" width="347" height="667" frameX="0" frameY="0" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0003" x="1983" y="1413" width="340" height="665" frameX="-5" frameY="-2" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0004" x="2323" y="1413" width="334" height="663" frameX="-10" frameY="-4" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0005" x="2323" y="1413" width="334" height="663" frameX="-10" frameY="-4" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0006" x="2657" y="1413" width="323" height="657" frameX="-20" frameY="-10" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0007" x="2980" y="1413" width="321" height="656" frameX="-22" frameY="-11" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0008" x="3301" y="1413" width="320" height="656" frameX="-23" frameY="-11" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0009" x="3621" y="1413" width="320" height="655" frameX="-23" frameY="-12" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0010" x="3621" y="1413" width="320" height="655" frameX="-23" frameY="-12" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0011" x="3621" y="1413" width="320" height="655" frameX="-23" frameY="-12" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0012" x="0" y="2120" width="344" height="658" frameX="-17" frameY="-9" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0013" x="0" y="2120" width="344" height="658" frameX="-17" frameY="-9" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0014" x="344" y="2120" width="347" height="658" frameX="-19" frameY="-9" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0015" x="691" y="2120" width="345" height="658" frameX="-21" frameY="-9" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0016" x="1036" y="2120" width="342" height="661" frameX="-23" frameY="-6" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0017" x="1036" y="2120" width="342" height="661" frameX="-23" frameY="-6" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0018" x="1378" y="2120" width="329" height="656" frameX="-23" frameY="-11" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0019" x="1378" y="2120" width="329" height="656" frameX="-23" frameY="-11" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0020" x="1707" y="2120" width="325" height="655" frameX="-23" frameY="-12" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0021" x="2032" y="2120" width="322" height="654" frameX="-23" frameY="-13" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0022" x="2354" y="2120" width="321" height="656" frameX="-23" frameY="-11" frameWidth="366" frameHeight="667"/>
+	<SubTexture name="dance Tart0023" x="2354" y="2120" width="321" height="656" frameX="-23" frameY="-11" frameWidth="366" frameHeight="667"/>
+</TextureAtlas>

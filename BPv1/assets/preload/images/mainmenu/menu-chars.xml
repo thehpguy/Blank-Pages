@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu-chars.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu-chars story0000" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="menu-chars freeplay0000" x="0" y="0" width="1286" height="730"/>
+	<SubTexture name="menu-chars options0000" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="menu-chars credits0000" x="3858" y="0" width="1286" height="730"/>
+</TextureAtlas>

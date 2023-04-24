@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg boop Left.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg BOPING left instancia 10000" x="6" y="6" width="585" height="647" frameX="0" frameY="-17" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10001" x="597" y="6" width="581" height="651" frameX="-2" frameY="-13" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10002" x="1184" y="6" width="577" height="655" frameX="-4" frameY="-9" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10003" x="6" y="667" width="573" height="659" frameX="-6" frameY="-5" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10004" x="585" y="667" width="571" height="661" frameX="-7" frameY="-3" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10005" x="1162" y="667" width="569" height="663" frameX="-8" frameY="-1" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10006" x="6" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10007" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10008" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10009" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10010" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10011" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10012" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+	<SubTexture name="bg BOPING left instancia 10013" x="579" y="1336" width="567" height="664" frameX="-9" frameY="0" frameWidth="585" frameHeight="664"/>
+</TextureAtlas>

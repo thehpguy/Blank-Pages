@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Greeted idle Dance instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Greeted Down note instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Greeted Right note instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Greeted Left note instancia",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Greeted Up note instancia",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Greeted",
+	"position": [
+		-480,
+		250
+	],
+	"healthicon": "greeted",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		203,
+		109
+	],
+	"camera_position": [
+		190,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

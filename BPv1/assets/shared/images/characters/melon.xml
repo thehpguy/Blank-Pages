@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="melon.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smol instancia 10000" x="6" y="6" width="273" height="493" frameX="0" frameY="-15" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10001" x="6" y="6" width="273" height="493" frameX="0" frameY="-15" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10002" x="285" y="6" width="254" height="499" frameX="-16" frameY="-9" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10003" x="285" y="6" width="254" height="499" frameX="-16" frameY="-9" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10004" x="545" y="6" width="234" height="503" frameX="-35" frameY="-6" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10005" x="545" y="6" width="234" height="503" frameX="-35" frameY="-6" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10006" x="785" y="6" width="218" height="502" frameX="-51" frameY="-7" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10007" x="785" y="6" width="218" height="502" frameX="-51" frameY="-7" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10008" x="1009" y="6" width="213" height="504" frameX="-57" frameY="-5" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10009" x="1009" y="6" width="213" height="504" frameX="-57" frameY="-5" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10010" x="1228" y="6" width="213" height="508" frameX="-59" frameY="-1" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10011" x="1228" y="6" width="213" height="508" frameX="-59" frameY="-1" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10012" x="1447" y="6" width="214" height="509" frameX="-59" frameY="0" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10013" x="1447" y="6" width="214" height="509" frameX="-59" frameY="0" frameWidth="273" frameHeight="509"/>
+	<SubTexture name="smol instancia 10014" x="1447" y="6" width="214" height="509" frameX="-59" frameY="0" frameWidth="273" frameHeight="509"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuu Left note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuu Up note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuu Down note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuu Right note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuu Idle dance"
+		},
+		{
+			"offsets": [
+				-150,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Yuu Right miss"
+		},
+		{
+			"offsets": [
+				-110,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Yuu Left miss"
+		},
+		{
+			"offsets": [
+				-130,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Yuu Up miss"
+		},
+		{
+			"offsets": [
+				-120,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Yuu Down miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Charr",
+	"position": [
+		-70,
+		190
+	],
+	"healthicon": "charr",
+	"flip_x": true,
+	"healthbar_colors": [
+		210,
+		232,
+		232
+	],
+	"camera_position": [
+		340,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

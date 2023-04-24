@@ -1,0 +1,6 @@
+Hide Hud
+
+Value 1: nothing, hidden
+
+Value 2: 1, visible
+

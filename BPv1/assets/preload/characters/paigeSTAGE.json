@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				9
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle0"
+		},
+		{
+			"offsets": [
+				-7,
+				7
+			],
+			"indices": [],
+			"fps": 11,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-10,
+				9
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-8,
+				9
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paigeSTAGE",
+	"position": [
+		-110,
+		-30
+	],
+	"healthicon": "paige",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		177,
+		177
+	],
+	"camera_position": [
+		280,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

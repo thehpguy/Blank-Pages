@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fine.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="1920" y="5400" width="1920" height="1080"/>
+	<SubTexture name="attac0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0001" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0002" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0003" x="3840" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0004" x="5120" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0005" x="6400" y="0" width="1280" height="720"/>
+	<SubTexture name="attac0006" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0007" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0008" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0009" x="3840" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0010" x="5120" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0011" x="6400" y="720" width="1280" height="720"/>
+	<SubTexture name="attac0012" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0013" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0014" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0015" x="3840" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0016" x="5120" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0017" x="6400" y="1440" width="1280" height="720"/>
+	<SubTexture name="attac0018" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0019" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0020" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0021" x="3840" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0022" x="5120" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0023" x="6400" y="2160" width="1280" height="720"/>
+	<SubTexture name="attac0024" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0025" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0026" x="2560" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0027" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0028" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0029" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0030" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0031" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0032" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0033" x="3840" y="2880" width="1280" height="720"/>
+	<SubTexture name="attac0034" x="3840" y="2880" width="1280" height="720"/>
+</TextureAtlas>

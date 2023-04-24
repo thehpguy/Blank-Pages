@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="titleChars.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounce0000" x="0" y="0" width="1286" height="730"/>
+	<SubTexture name="bounce0001" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="bounce0002" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="bounce0003" x="3858" y="0" width="1286" height="730"/>
+	<SubTexture name="bounce0004" x="5144" y="0" width="1286" height="730"/>
+	<SubTexture name="bounce0005" x="6430" y="0" width="1286" height="730"/>
+</TextureAtlas>

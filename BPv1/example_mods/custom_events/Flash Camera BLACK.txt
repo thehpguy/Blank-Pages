@@ -1,0 +1,3 @@
+Flashes Camera BLACK
+
+Value 1: speed

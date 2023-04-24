@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "skyline",
+		"player1": "CGpaige",
+		"player2": "CGvs",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"1"
+					]
+				]
+			],
+			[
+				4650,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28650,
+				[
+					[
+						"Change Character",
+						"gf",
+						"miku"
+					]
+				]
+			],
+			[
+				66900,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				86100,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105300,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124200,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Play Animation",
+						"bf",
+						"wtf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "no_one",
+		"bpm": 100,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "transcendent"
+	}
+}
